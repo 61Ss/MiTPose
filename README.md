@@ -34,11 +34,11 @@ We conduct comprehensive experiments on the COCO benchmark to validate the effec
 
 <div align="center">
   
-**Overall results on COCO**
+**Overall results on COCO-val**
 
 ![COCO Results Table 1](assets/Table1.png)
 
-**Overall results on MPII**
+**Overall results on COCO-test_del**
 
 ![COCO Results Table 2](assets/Table2.png)
 
